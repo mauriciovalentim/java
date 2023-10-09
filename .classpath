@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01 - java-anatomia-classes/src"/>
+	<classpathentry kind="src" path="02 - tipos-variaveis/src"/>
+	<classpathentry kind="src" path="03 - metodos/src"/>
+	<classpathentry kind="src" path="04 - doc/src"/>
+	<classpathentry kind="src" path="05 - terminal/src"/>
+	<classpathentry kind="src" path="06 - banco (projeto)/src"/>
+	<classpathentry kind="src" path="07 - controle de fluxo/src"/>
+	<classpathentry kind="src" path="08 - exeções/src"/>
+	<classpathentry kind="src" path="09 - candidatos/src"/>
+	<classpathentry kind="src" path="10 - controle de fluxo (desafio)/src"/>
+	<classpathentry kind="src" path="11 - desafios/src"/>
+	<classpathentry kind="output" path="11 - desafios/bin"/>
+</classpath>
