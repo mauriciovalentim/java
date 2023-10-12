@@ -14,5 +14,6 @@
 	<classpathentry kind="src" path="11 - desafios/src"/>
 	<classpathentry kind="src" path="14 - getters e setters/src"/>
 	<classpathentry kind="src" path="15 - construtores/src"/>
+	<classpathentry kind="src" path="16 - pilares de poo/src/intro"/>
 	<classpathentry kind="output" path="11 - desafios/bin"/>
 </classpath>
